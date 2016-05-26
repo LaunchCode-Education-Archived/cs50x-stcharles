@@ -3,7 +3,7 @@
 
 **Pre-reqs:** You should have completed [Module 1](../module1)
 
-#### Synopsis 
+#### Synopsis
 
 In Module 2, we will learn:
 * how to write our own functions
@@ -15,15 +15,12 @@ These skills will eventually allow us to do some real cryptography (the art of w
 
 By the end of this module you will have completed [Problem Set 2](./materials/problem-set).
 
-*** 
+***
 
 ### Steps
 
 Class # | Date | Before Class | During Class | Topics/Skills
 :--------:|:---:|:------------:|:------------:|-----------------------|
-Class 1 | TBD | [Prep Work](./materials/class1-prep) | [In Class](./materials/class1) | chars, functions, scope, strings, modulo|
-Class 2 | TBD | [Prep Work](./materials/class2-prep) | [In Class](./materials/class2) | more strings, arrays, command-line arguments |
-Class 3 | TBD | Work on [Problem Set 2](./materials/problem-set) | [In Class](./materials/class3) | (office hours!)|
-
-
-  
+Class 1 | 6/30 | [Prep Work](./materials/class1-prep) | [In Class](./materials/class1) | chars, functions, scope, strings, modulo|
+Class 2 | 7/7 | [Prep Work](./materials/class2-prep) | [In Class](./materials/class2) | more strings, arrays, command-line arguments |
+Class 3 | 7/11 | Work on [Problem Set 2](./materials/problem-set) | [In Class](./materials/class3) | (office hours!)|
