@@ -37,5 +37,5 @@ menu:
             attributes: target="_blank"
         piazza:
             text: Piazza
-            absoluteUrl: http://piazza.com/link-to-pleasantville-piazza-page
+            absoluteUrl: piazza.com/launchcode/summer2016/lc106/home
             attributes: target="_blank"
